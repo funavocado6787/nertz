@@ -1,0 +1,14 @@
+check to prevent duplicate usernames within one room
+
+add user role of admin vs player
+    admin can adjust game settings
+    admin has 'switch admin' button
+    admin has 'start game' button with player ready count
+    player has 'ready' button
+
+switch teams button moves username to appropriate div for all users
+    bug: when another user joins, spectators list updates to include all users
+
+add settings controls
+
+add info overlay panel
